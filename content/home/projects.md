@@ -53,8 +53,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Melbourne
-    date_start: '2018-09-11'
-    date_end: '2018-12-20'
+    date_start: '2019-04-11'
+    date_end: '2019-07-20'
     description: |2-
         Responsibilities include:
         
@@ -66,8 +66,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Melbourne
-    date_start: '2019-03-01'
-    date_end: '2019-07-20'
+    date_start: '2018-08-01'
+    date_end: '2018-11-20'
     description: |2-
         Responsibilities include:
         
