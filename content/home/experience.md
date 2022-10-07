@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Participated in the reconstruction of the payment contract software system and assisted in building the platform services of core capabilities - signing, cancellation, and authentication, which allowed future expansion
         * Modelling
         * Deploying
 
