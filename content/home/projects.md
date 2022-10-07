@@ -32,6 +32,19 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Participated in the development of a Web page game based on user action recognition. The match between the user action and the target action determines the score of the game
+        * Back-end technologies used the TFJS-Models/PoseNet open-source image recognition algorithm to identify user action according to the coordinates of the two-dimensional image
+
+  - title: Voice Meeting Application
+    company: The University of Melbourne
+    company_url: ''
+    company_logo: 
+    location: Melbourne
+    date_start: '2015-09-01'
+    date_end: '2016-12-20'
+    description: |2-
+        Responsibilities include:
+        
         * Used the MFCC feature extraction method to transfer the frequency band from the HZ scale to the Mel scale. Trained a hybrid  GMM model using non-target user voice data and fine-tune it based on the data of the target user
         * Utilized the distance-based segmentation algorithm for speaker segmentation. Pattern matching and logical decision-making used maximum Posterior Probability Classification
 
