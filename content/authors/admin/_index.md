@@ -49,15 +49,14 @@ education:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'msymli@outlook.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Yimeng now working as a software engineer in Meituan. She was responsible for system refactoring and reimplementation of the financial sector. She was in one of the top tiers among my peers and got a promotion after one and a half years of service.
+
 She graduated with a master's degree in Information Technology from the University of Melbourne, achieving Second Class Honours – A Division honors. Previously, she obtained a bachelor’s degree in Computer Science at Northeastern University, achieving first-class honors.
+
 She research interests include software engineering, information retrieval, distributed system, artificial intelligence and cryptography.
-
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
