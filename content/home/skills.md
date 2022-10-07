@@ -28,10 +28,6 @@ feature:
     icon: database
     icon_pack: fas
     name: Redis, SQL
-  - description: 30%
-    icon: chart-line
-    icon_pack: fab
-    name: MATLAB, SPSS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
