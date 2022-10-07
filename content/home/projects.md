@@ -35,7 +35,44 @@ experience:
         * Participated in the development of a Web page game based on user action recognition. The match between the user action and the target action determines the score of the game
         * Back-end technologies used the TFJS-Models/PoseNet open-source image recognition algorithm to identify user action according to the coordinates of the two-dimensional image
 
+  - title: Voice Meeting Application
+    company: Codejoy
+    company_url: ''
+    company_logo: 
+    location: Melbourne
+    date_start: '2019-09-01'
+    date_end: '2019-12-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Used the MFCC feature extraction method to transfer the frequency band from the HZ scale to the Mel scale. Trained a hybrid  GMM model using non-target user voice data and fine-tune it based on the data of the target user
+        * Utilized the distance-based segmentation algorithm for speaker segmentation. Pattern matching and logical decision-making used maximum Posterior Probability Classification
 
+  - title: Peer-to-Peer File Transformation Project
+    company: Codejoy
+    company_url: ''
+    company_logo: 
+    location: Melbourne
+    date_start: '2019-04-11'
+    date_end: '2019-07-20'
+    description: |2-
+        Responsibilities include:
+        
+       * Used the TCP socket interface provided by Java to connect each peer and used a multithread mechanism to implement synchronized peer-to-peer communication for file transmission
+        * Implemented security mechanisms through asymmetric and symmetric encryption algorithms
+        
+  - title: Twitter Sentiment Analysis Based On Tweet Text
+    company: The University of Melbourne
+    company_url: ''
+    company_logo: 
+    location: Melbourne
+    date_start: '2018-08-01'
+    date_end: '2018-11-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Twitter Sentiment Analysis using the Nave Bayes, J48 Decision Tree, and random forest tree method
+        * Select important attributes based on the F-measure to improve the system performance
 
 design:
   columns: '2'
