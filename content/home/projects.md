@@ -62,6 +62,19 @@ experience:
         * Used the TCP socket interface provided by Java to connect each peer and used a multithread mechanism to implement synchronized peer-to-peer communication for file transmission
         * Implemented security mechanisms through asymmetric and symmetric encryption algorithms
 
+  - title: Twitter Sentiment Analysis Based On Tweet Text
+    company: The University of Melbourne
+    company_url: ''
+    company_logo: 
+    location: Melbourne
+    date_start: '2018-09-20'
+    date_end: '2018-11-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Twitter Sentiment Analysis using the Nave Bayes, J48 Decision Tree, and random forest tree method
+        * Select important attributes based on the F-measure result to improve the system performance
+
 design:
   columns: '2'
 ---
