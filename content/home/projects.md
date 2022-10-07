@@ -42,27 +42,13 @@ experience:
     company_url: ''
     company_logo: 
     location: Melbourne
-    date_start: '2019-09-01'
-    date_end: '2019-12-20'
+    date_start: '2019-05-01'
+    date_end: '2019-10-20'
     description: |2-
         Responsibilities include:
         
         * Used the MFCC feature extraction method to transfer the frequency band from the HZ scale to the Mel scale. Trained a hybrid  GMM model using non-target user voice data and fine-tune it based on the data of the target user
         * Utilized the distance-based segmentation algorithm for speaker segmentation. Pattern matching and logical decision-making used maximum Posterior Probability Classification
-
-  - title: Software Developer
-    company: Neusoft 
-    company_url: 'https://inhaabit.com/'
-    company_logo: 
-    location: Shenyang
-    date_start: '2018-11-01'
-    date_end: '2019-03-20'
-    description: |2-
-        Responsibilities include:
-        
-        * Responsible for data model refactoring to ensure the correctness and stability of the data. The data reconstruction strategy is to block the increment and wash the stock
-        * Double wrote the incremental data into the new model, and use the monitoring tool to check the correctness of the data stream
-        * Controlled data cleaning procedure by adding cleaning switch, breakpoint record, and RateLimter to the data cleaning system. If there is an anomaly in the cleaning process, connect the corresponding notification tool to ensure that the cleaning process can be sensed
 
 design:
   columns: '2'
