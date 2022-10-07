@@ -26,7 +26,7 @@ experience:
     company: Meituan
     company_url: ''
     company_logo: org-meituan
-    location: Beijing, China
+    location: Beijing
     date_start: '2020-01'
     date_end: ''
     description: |2-
