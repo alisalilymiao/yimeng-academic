@@ -48,6 +48,20 @@ experience:
         * Used the MFCC feature extraction method to transfer the frequency band from the HZ scale to the Mel scale. Trained a hybrid  GMM model using non-target user voice data and fine-tune it based on the data of the target user
         * Utilized the distance-based segmentation algorithm for speaker segmentation. Pattern matching and logical decision-making used maximum Posterior Probability Classification
 
+
+  - title: Peer-to-Peer File Transformation Project
+    company: The University of Melbourne
+    company_url: ''
+    company_logo: 
+    location: Melbourne
+    date_start: '2019-03-20'
+    date_end: '2019-07-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Used the TCP socket interface provided by Java to connect each peer and used a multithread mechanism to implement synchronized peer-to-peer communication for file transmission
+        * Implemented security mechanisms through asymmetric and symmetric encryption algorithms
+
 design:
   columns: '2'
 ---
