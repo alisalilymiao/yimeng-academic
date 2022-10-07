@@ -23,11 +23,11 @@ feature:
   - description: 50%
     icon: js
     icon_pack: fab
-    name: HTML, CSS, and JavaScript
+    name: HTML, CSS and JavaScript
   - description: 80%
     icon: database
     icon_pack: fas
-    name: Redis, SQL
+    name: Redis, SQL and MongoDB
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
