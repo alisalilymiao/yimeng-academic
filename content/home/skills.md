@@ -7,7 +7,7 @@ widget: features
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Skills
 subtitle:
@@ -26,7 +26,7 @@ feature:
     name: HTML, CSS, and JavaScript
   - description: 80%
     icon: database
-    icon_pack: fab
+    icon_pack: fas
     name: Redis, SQL
   - description: 30%
     icon: chart-line
