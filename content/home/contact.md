@@ -30,8 +30,8 @@ content:
   address:
     street: Ruichuang International Center
     city: Beijing
-    region: Beijing
-    postcode: '94305'
+    region: 
+    postcode: '100020'
     country: China
     country_code: CN
   coordinates:
@@ -39,8 +39,7 @@ content:
     longitude: ''
   directions: 
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Monday-Friday 10:00 to 22:00'
   appointment_url: ''
   contact_links:
 
