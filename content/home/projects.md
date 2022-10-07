@@ -35,9 +35,9 @@ experience:
         * Participated in the development of a Web page game based on user action recognition. The match between the user action and the target action determines the score of the game
         * Back-end technologies used the TFJS-Models/PoseNet open-source image recognition algorithm to identify user action according to the coordinates of the two-dimensional image
 
-  - title: Android Developer and Web developer
-    company: INHAABIT 
-    company_url: 'https://inhaabit.com/'
+  - title: Voice Meeting Application
+    company: The University of Melbourne
+    company_url: ''
     company_logo: 
     location: Melbourne
     date_start: '2019-09-01'
@@ -45,22 +45,34 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Assisted with the interface development of an Android app for Augmented Reality (AR), project wireframing, CMS content management tasks, and HTML and CSS form building
-        * Wrote and performed unit tests and interface tests to ensure the correctness of system functions. Collaborated with other developers to identify and alleviate several bugs and errors in software
+        * Used the MFCC feature extraction method to transfer the frequency band from the HZ scale to the Mel scale. Trained a hybrid  GMM model using non-target user voice data and fine-tune it based on the data of the target user
+        * Utilized the distance-based segmentation algorithm for speaker segmentation. Pattern matching and logical decision-making used maximum Posterior Probability Classification
 
-  - title: Software Developer
-    company: Neusoft 
-    company_url: 'https://inhaabit.com/'
+  - title: Peer-to-Peer File Transformation Project
+    company:The University of Melbourne
+    company_url: ''
     company_logo: 
-    location: Shenyang
-    date_start: '2018-11-01'
-    date_end: '2019-03-20'
+    location: Melbourne
+    date_start: '2018-09-11'
+    date_end: '2018-12-20'
     description: |2-
         Responsibilities include:
         
-        * Responsible for data model refactoring to ensure the correctness and stability of the data. The data reconstruction strategy is to block the increment and wash the stock
-        * Double wrote the incremental data into the new model, and use the monitoring tool to check the correctness of the data stream
-        * Controlled data cleaning procedure by adding cleaning switch, breakpoint record, and RateLimter to the data cleaning system. If there is an anomaly in the cleaning process, connect the corresponding notification tool to ensure that the cleaning process can be sensed
+       * Used the TCP socket interface provided by Java to connect each peer and used a multithread mechanism to implement synchronized peer-to-peer communication for file transmission
+        * Implemented security mechanisms through asymmetric and symmetric encryption algorithms
+        
+  - title: Twitter Sentiment Analysis Based On Tweet Text
+    company:The University of Melbourne
+    company_url: ''
+    company_logo: 
+    location: Melbourne
+    date_start: '2019-03-01'
+    date_end: '2019-07-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Twitter Sentiment Analysis using the Nave Bayes, J48 Decision Tree, and random forest tree method
+        * Select important attributes based on the F-measure to improve the system performance
 
 design:
   columns: '2'
