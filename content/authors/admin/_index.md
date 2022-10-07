@@ -1,43 +1,45 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Yimeng Li
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Yimeng 
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Meituan
+    url: https://about.meituan.com/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include software engineering, information retrieval, distributed system, artificial intelligence and cryptography.
 
 # Interests to show in About widget
 interests:
+  - Software Engineering
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Information retrieval
+  - Cryptography
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Information Technology
+      institution: The University of Melbourne
+      year: 2020
+      GPA: H2A
+      core modules: Distributed Systems; Algorithms and Complexity; Mobile Computing Systems; Knowledge Technologies; Advanced Database Systems; Cryptography, etc.
+    - course: BSc in Computer Science
+      institution:  Northeastern University, China
+      year: 2018
+      GPA: 3.9/4
+      core modules: Programming and Software Development; Software Processes and Management; Database Systems; Internet Technologies; Artificial Intelligence; Data Mining, etc.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
