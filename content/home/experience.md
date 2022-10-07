@@ -25,9 +25,9 @@ experience:
   - title: Software Engineer
     company: Meituan
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: org-meituan
+    location: Beijing, China
+    date_start: '2020-01'
     date_end: ''
     description: |2-
         Responsibilities include:
