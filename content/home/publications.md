@@ -33,5 +33,7 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
+  
+  Li Yimeng. (2017), Analysis of the Future Development Trend of Artificial Intelligence Technology, Electronic Technology & Software, CN 10-1108/TP, ISSN 2095-5650, ISSN 2096-1936 (Journal Article)
   columns: '2'
 ---
