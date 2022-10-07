@@ -36,7 +36,7 @@ experience:
         * Back-end technologies used the TFJS-Models/PoseNet open-source image recognition algorithm to identify user action according to the coordinates of the two-dimensional image
 
   - title: Voice Meeting Application
-    company: The University of Melbourne
+    company: The_University_of_Melbourne
     company_url: ''
     company_logo: 
     location: Melbourne
