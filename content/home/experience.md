@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Meituan
     company_url: ''
-    company_logo: 
+    company_logo: org-meituan
     location: Beijing
     date_start: '2020-01-01'
     date_end: ''
@@ -33,8 +33,8 @@ experience:
         Responsibilities include:
         
         * Participated in the reconstruction of the payment contract software system and assisted in building the platform services of core capabilities - signing, cancellation, and authentication, which allowed future expansion
-        * Modelling
-        * Deploying
+        * Used design patterns such as factory pattern, strategy pattern, SPI design, and chain of responsibility design pattern to abstract system public process, settled reusable modules, and regularized interface definition
+        * Extracted key business indicators for monitoring and tracking the fluctuation of the system. Configured alarms to ensure that the reconstruction quality risk is minimized
 
   - title: Professor of Semiconductor Physics
     company: University X
