@@ -37,18 +37,18 @@ experience:
         * Extracted key business indicators for monitoring and tracking the fluctuation of the system. Configured alarms to ensure that the reconstruction quality risk is minimized
         * Built an intelligent operation system, matched the information in the resource database according to the keywords entered by users, and used the front-end page to display the retrieval results
 
-  - title: Android Developer and Web developer
-    company: INHAABIT 
-    company_url: 'https://inhaabit.com/'
+  - title: Voice Meeting Application
+    company: Codejoy
+    company_url: ''
     company_logo: 
     location: Melbourne
-    date_start: '2019-11-01'
-    date_end: '2020-03-20'
+    date_start: '2019-09-01'
+    date_end: '2019-12-20'
     description: |2-
         Responsibilities include:
         
-        * Assisted with the interface development of an Android app for Augmented Reality (AR), project wireframing, CMS content management tasks, and HTML and CSS form building
-        * Wrote and performed unit tests and interface tests to ensure the correctness of system functions. Collaborated with other developers to identify and alleviate several bugs and errors in software
+        * Used the MFCC feature extraction method to transfer the frequency band from the HZ scale to the Mel scale. Trained a hybrid  GMM model using non-target user voice data and fine-tune it based on the data of the target user
+        * Utilized the distance-based segmentation algorithm for speaker segmentation. Pattern matching and logical decision-making used maximum Posterior Probability Classification
 
   - title: Software Developer
     company: Neusoft 
