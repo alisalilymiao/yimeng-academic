@@ -26,7 +26,7 @@ experience:
     company: Meituan 
     company_url: 'https://i.meituan.com/'
     company_logo: org-meituan
-    location: Beijing, China
+    location: Beijing
     date_start: '2020-01'
     date_end: ''
     description: |2-
@@ -41,7 +41,7 @@ experience:
     company: INHAABIT 
     company_url: 'https://inhaabit.com/'
     company_logo: org-inhaabit
-    location: Melbourne, Australia
+    location: Melbourne
     date_start: '2019-11'
     date_end: '2020-03'
     description: |2-
@@ -54,7 +54,7 @@ experience:
     company: Neusoft 
     company_url: 'https://www.neusoft.com/'
     company_logo: org-neusoft
-    location: Shenyang, China
+    location: Shenyang
     date_start: '2018-11'
     date_end: '2019-03'
     description: |2-
