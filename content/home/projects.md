@@ -40,8 +40,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Melbourne
-    date_start: '2015-09-01'
-    date_end: '2016-12-20'
+    date_start: '2019-09-20'
+    date_end: '2019-12-20'
     description: |2-
         Responsibilities include:
         
