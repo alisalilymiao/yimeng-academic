@@ -22,28 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Engineer
-    company: Meituan
-    company_url: 'https://i.meituan.com/'
-    company_logo: 
-    location: Beijing
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Participated in the reconstruction of the payment contract software system and assisted in building the platform services of core capabilities - signing, cancellation, and authentication, which allowed future expansion
-        * Used design patterns such as factory pattern, strategy pattern, SPI design, and chain of responsibility design pattern to abstract system public process, settled reusable modules, and regularized interface definition
-        * Extracted key business indicators for monitoring and tracking the fluctuation of the system. Configured alarms to ensure that the reconstruction quality risk is minimized
-        * Built an intelligent operation system, matched the information in the resource database according to the keywords entered by users, and used the front-end page to display the retrieval results
-
-  - title: Voice Meeting Application
+  - title: User Action Detective Application
     company: Codejoy
     company_url: ''
     company_logo: 
     location: Melbourne
-    date_start: '2019-05-01'
-    date_end: '2019-10-20'
+    date_start: '2020-03-01'
+    date_end: '2020-07-20'
     description: |2-
         Responsibilities include:
         
