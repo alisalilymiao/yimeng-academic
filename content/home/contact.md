@@ -39,7 +39,7 @@ content:
     longitude: ''
   directions: 
   office_hours:
-    - 'Monday-Friday 10:00 to 22:00'
+    - 'Monday - Friday 10:00 to 22:00'
   appointment_url: ''
   contact_links:
 
